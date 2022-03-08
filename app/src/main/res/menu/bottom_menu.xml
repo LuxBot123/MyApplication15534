@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/secondFragmentt"
+        android:title="Bitcoin"
+        android:icon="@drawable/ic_bitcoin"/>
+    <item
+        android:id="@+id/thirdFragmentt"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile"/>
+</menu>
